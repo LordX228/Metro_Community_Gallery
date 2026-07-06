@@ -1,0 +1,8 @@
+{
+  "id": "calculator",
+  "displayname": "Calculator Pro",
+  "version": "1.0.0",
+  "imgUrl": "https://raw.githubusercontent.com/LordX228/Metro_Community_Gallery/main/images/calculator_icon.png",
+  "downloadUri": "https://raw.githubusercontent.com/LordX228/Metro_Community_Gallery/main/apps/calculator.appx",
+  "description": "Оригінальний калькулятор з Windows 8.1"
+}
