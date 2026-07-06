@@ -1,8 +1,4 @@
 {
-  "featuredApps": {
-    "appNames": ["calculator", "weather", "music_player"]
-  },
-  "topGames": {
-    "appNames": ["snake_game", "tetris_retro"]
-  }
+  "featuredApps": { "appNames": ["calculator"] },
+  "topGames": { "appNames": ["snake"] }
 }
